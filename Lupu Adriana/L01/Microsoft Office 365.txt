@@ -1,0 +1,5 @@
+	
+Aplicatiile de tipul SaaS sunt cele din pachetul Microsoft Office 365.
+Pe acestea le poti utiliza pentru a crea, edita si partaja documente de pe
+orice dispozitiv (Mac, iOS, Android sau Windows) in timp real si te poti
+conecta cu colegi, clienti aflati oriunde in lume.
