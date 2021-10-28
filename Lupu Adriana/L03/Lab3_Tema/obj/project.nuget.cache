@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5cGVgjlYOCVtFjt/CxtYwH7rTBMj2m2Dyve/FaCuliz3bfSqsFPgIS8sNYsF6jVQvz7JSUqKmDGFdcnJ/wP6HA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lupu Cel Rau\\Desktop\\DAC\\Lab3_Tema\\Lab3_Tema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lupu Cel Rau\\.nuget\\packages\\google.apis\\1.55.0\\google.apis.1.55.0.nupkg.sha512",
+    "C:\\Users\\Lupu Cel Rau\\.nuget\\packages\\google.apis.auth\\1.55.0\\google.apis.auth.1.55.0.nupkg.sha512",
+    "C:\\Users\\Lupu Cel Rau\\.nuget\\packages\\google.apis.core\\1.55.0\\google.apis.core.1.55.0.nupkg.sha512",
+    "C:\\Users\\Lupu Cel Rau\\.nuget\\packages\\google.apis.drive.v3\\1.55.0.2481\\google.apis.drive.v3.1.55.0.2481.nupkg.sha512",
+    "C:\\Users\\Lupu Cel Rau\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
