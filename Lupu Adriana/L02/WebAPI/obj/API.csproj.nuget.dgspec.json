@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lupu Cel Rau\\Desktop\\Lupu Adriana\\L02\\WebAPI\\API.csproj": {}
+    "C:\\Users\\Lupu Cel Rau\\Desktop\\DAC\\Lab2_Tema\\WebAPI\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lupu Cel Rau\\Desktop\\Lupu Adriana\\L02\\WebAPI\\API.csproj": {
+    "C:\\Users\\Lupu Cel Rau\\Desktop\\DAC\\Lab2_Tema\\WebAPI\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lupu Cel Rau\\Desktop\\Lupu Adriana\\L02\\WebAPI\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Lupu Cel Rau\\Desktop\\DAC\\Lab2_Tema\\WebAPI\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Lupu Cel Rau\\Desktop\\Lupu Adriana\\L02\\WebAPI\\API.csproj",
+        "projectPath": "C:\\Users\\Lupu Cel Rau\\Desktop\\DAC\\Lab2_Tema\\WebAPI\\API.csproj",
         "packagesPath": "C:\\Users\\Lupu Cel Rau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lupu Cel Rau\\Desktop\\Lupu Adriana\\L02\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Lupu Cel Rau\\Desktop\\DAC\\Lab2_Tema\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lupu Cel Rau\\AppData\\Roaming\\NuGet\\NuGet.Config",
