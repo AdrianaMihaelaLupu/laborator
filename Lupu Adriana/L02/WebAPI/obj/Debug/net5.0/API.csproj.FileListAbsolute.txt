@@ -26,31 +26,31 @@ C:\Users\Lupu Cel Rau\Desktop\Facultate\An4\Sem1\DAC\Lab2_Tema\WebAPI\obj\Debug\
 C:\Users\Lupu Cel Rau\Desktop\Facultate\An4\Sem1\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\ref\API.dll
 C:\Users\Lupu Cel Rau\Desktop\Facultate\An4\Sem1\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.pdb
 C:\Users\Lupu Cel Rau\Desktop\Facultate\An4\Sem1\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.genruntimeconfig.cache
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\appsettings.json
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\API.exe
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\API.deps.json
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\API.runtimeconfig.json
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\API.runtimeconfig.dev.json
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\API.dll
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\ref\API.dll
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\API.pdb
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\API.AssemblyInfo.cs
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\API.dll
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\ref\API.dll
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\API.pdb
-C:\Users\Lupu Cel Rau\Desktop\Lupu Adriana\L02\WebAPI\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\API.exe
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\API.deps.json
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\API.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\ref\API.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\API.pdb
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\ref\API.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.pdb
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab2_Tema\WebAPI\obj\Debug\net5.0\API.genruntimeconfig.cache
