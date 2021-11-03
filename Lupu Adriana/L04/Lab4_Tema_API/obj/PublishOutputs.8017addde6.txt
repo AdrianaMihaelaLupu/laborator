@@ -1,0 +1,13 @@
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\Lab4_Tema_API.exe
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\appsettings.Development.json
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\appsettings.json
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\Lab4_Tema_API.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\Lab4_Tema_API.deps.json
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\Lab4_Tema_API.runtimeconfig.json
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\Lab4_Tema_API.pdb
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\Microsoft.OpenApi.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\Newtonsoft.Json.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lupu Cel Rau\Desktop\DAC\Lab4_Tema_API\publis\Microsoft.WindowsAzure.Storage.dll
